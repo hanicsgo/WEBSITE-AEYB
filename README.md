@@ -1,5 +1,6 @@
 # How to install
 GET STARTED INSTALL FTP WINDOWS:  https://filezilla-project.org/
+
 INSTALL XAMPP 7.3.30 OR MORE VERSIONS: https://www.apachefriends.org/download.html
 
 # Scripting Resources
