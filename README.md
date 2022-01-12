@@ -10,6 +10,6 @@ https://www.free-css.com/free-css-templates
 Run `xampp` or `FileZilla` and open `apache` make sure this apache have port 80/443 to open files using latest stable build of BizPage or `make build-dev` to compile using latest dev build.
 
 # Usage
-1. Download or clone the `repo` and copy `anhemyenbai` directory to the root directory of Apache.
+1. Download or clone the `website-aeyb` and copy `anhemyenbai` directory to the root directory of Apache.
 2. Open `index.html` changed all
 3. It has stared, Congrats
