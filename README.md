@@ -1,4 +1,4 @@
-# How to install
+# How To Install
 Install FileZilla:  https://filezilla-project.org/
 
 Install Xampp: https://www.apachefriends.org/download.html
@@ -6,7 +6,7 @@ Install Xampp: https://www.apachefriends.org/download.html
 # Scripting Resources
 https://www.free-css.com/free-css-templates
 
-# Build plugins
+# Build Plugins
 Run `Xampp` or `IIS` and open `apache` make sure this Apache have port 80/443 to open files using latest stable build of BizPage or `make build-dev` to compile using latest dev build.
 
 # Usage
