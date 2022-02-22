@@ -15,4 +15,4 @@ Run `Xampp` or `IIS` and open `apache` make sure this Apache have port 80/443 to
 3. It has stared, Congrats
 
 # Demo
-http://anhemyenbai.ddns.net/website/
+http://anhemyenbai.com/website
